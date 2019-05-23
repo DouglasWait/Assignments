@@ -1,0 +1,11 @@
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\bin\Debug\netcoreapp2.0\ThreadsCA.deps.json
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\bin\Debug\netcoreapp2.0\ThreadsCA.runtimeconfig.json
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\bin\Debug\netcoreapp2.0\ThreadsCA.runtimeconfig.dev.json
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\bin\Debug\netcoreapp2.0\ThreadsCA.dll
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\bin\Debug\netcoreapp2.0\ThreadsCA.pdb
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\obj\Debug\netcoreapp2.0\ThreadsCA.csprojAssemblyReference.cache
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\obj\Debug\netcoreapp2.0\ThreadsCA.csproj.CoreCompileInputs.cache
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\obj\Debug\netcoreapp2.0\ThreadsCA.AssemblyInfoInputs.cache
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\obj\Debug\netcoreapp2.0\ThreadsCA.AssemblyInfo.cs
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\obj\Debug\netcoreapp2.0\ThreadsCA.dll
+C:\Users\dwwai\Desktop\ITRW\ITRW316\ThreadsCA\ThreadsCA\obj\Debug\netcoreapp2.0\ThreadsCA.pdb
